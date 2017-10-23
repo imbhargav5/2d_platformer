@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: a28719b7f5db44e63a6875634a42758b
+timeCreated: 1505804349
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - thePlayer: {instanceID: 0}
+  - deathSplosion: {instanceID: 0}
+  - coinText: {instanceID: 0}
+  - heart1: {instanceID: 0}
+  - heart2: {instanceID: 0}
+  - heart3: {instanceID: 0}
+  - heartFull: {instanceID: 0}
+  - heartHalf: {instanceID: 0}
+  - heartEmpty: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
